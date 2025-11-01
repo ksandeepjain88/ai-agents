@@ -1,7 +1,3 @@
-# Create a GIT read me file
-
-Here is a sample README.md file for your n8n-AI-Agent workflow project, structured for clarity and professionalism and tailored to capture the workflow's functionality:
-
 ***
 
 # n8n-AI-Agent Workflow
@@ -95,7 +91,7 @@ MIT
 
 ## Contact
 
-For feedback or issues, open an issue in this repository or contact [your-email@example.com].
+For feedback or issues, open an issue in this repository or contact [jain.sandeepkumar88@gmail.com].
 
 ***
 
